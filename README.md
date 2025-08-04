@@ -10,7 +10,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | [Resumos](https://web.dio.me/track/gft-start-7-java/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1)|
+| Gravando Alterações no Repositório Local | [Resumo](https://web.dio.me/track/gft-start-7-java/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1)|
 
 ```
 git init
